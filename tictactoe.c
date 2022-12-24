@@ -2,7 +2,7 @@
 #include <stdbool.h>
 
 char checkTurn(int);
-
+//tictactoe
 void main() {
     char tictactoeArray[3][3] = {
         {' ',' ',' '},
